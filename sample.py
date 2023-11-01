@@ -23,3 +23,4 @@ if(answer==1):
     print("Your answer is correct you won 10000 rupees")
 else:
     print("your answer is wrong")
+print("why my code is not push on github")
